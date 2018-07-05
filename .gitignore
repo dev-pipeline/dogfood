@@ -1,0 +1,12 @@
+build*
+
+dev-pipeline/*
+dev-pipeline-bootstrap/*
+dev-pipeline-build/*
+dev-pipeline-build-order/*
+dev-pipeline-checkout/*
+dev-pipeline-cmake/*
+dev-pipeline-configure/*
+dev-pipeline-core*
+dev-pipeline-git/*
+dev-pipeline-scm/*
